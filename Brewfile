@@ -15,7 +15,9 @@ brew 'gh'
 brew 'git'
 brew 'grep'
 brew 'mackup'
+brew 'mactex'
 brew 'mas' # Mac App Store manager
+brew 'pandoc'
 brew 'trash' # Manage the Trash bin
 brew 'tree' # List directories in a tree structure
 
@@ -37,6 +39,7 @@ cask 'github'
 cask 'google-chrome'
 cask 'slack'
 cask 'spectacle'
+cask 'spotify'
 cask 'sublime-text'
 cask 'tableplus'
 cask 'telegram-desktop'
@@ -47,11 +50,11 @@ cask 'visual-studio-code'
 cask 'whatsapp'
 
 # Quicklook
-cask 'qlcolorcode'
-cask 'qlmarkdown'
-cask 'quicklook-json'
-cask 'quicklook-csv'
-cask 'qlstephen'
+# cask 'qlcolorcode'
+# cask 'qlmarkdown'
+# cask 'quicklook-json'
+# cask 'quicklook-csv'
+# cask 'qlstephen'
 
 # Fonts
 cask 'font-ibm-plex'
